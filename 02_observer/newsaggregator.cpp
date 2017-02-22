@@ -1,0 +1,3 @@
+#include "newsaggregator.h"
+
+
